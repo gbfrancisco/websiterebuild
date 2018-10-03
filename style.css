@@ -46,3 +46,28 @@ body {
   height: 10px;
   width: 60px;
 }
+
+.footer-background {
+  background-color: #000;
+  color: white;
+  padding-bottom: 100px;
+}
+
+.footer.two.text.row a {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.footer.two.subscribe.row a {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+.footer.two.powered.row p, a{
+  color: gray;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
